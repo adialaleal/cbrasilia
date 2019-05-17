@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="brasiliabier.com" resolutions="1x" timestamp="1558119792111">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="brasiliabier.com" resolutions="1x" timestamp="1558122410561">
   <folder name="css">
-    <file name="site_global.css" crc="442289053"/>
-    <file name="index.css" crc="28610815" ref="index"/>
-    <file name="nomq_index.css" crc="3994391958" ref="index"/>
+    <file name="site_global.css" crc="69715048"/>
+    <file name="index.css" crc="372426219" ref="index"/>
+    <file name="nomq_index.css" crc="3825254788" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -37,6 +37,7 @@
     <file name="vetor_distribuidores.png" crc="3876857837" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="banner-topo-distribuidor.jpg" crc="234158913" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -63,6 +64,7 @@
     </file>
     <file name="u3627-4.png" crc="4165536988" ref="index"/>
     <file name="calcule-o-seu-chopp.jpg" crc="4004629939" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -148,8 +150,8 @@
     <file name="u3785-42.png" crc="335248063" ref="index"/>
     <file name="u3683-142.png" crc="524956185" ref="index"/>
     <file name="u3848-62.png" crc="526730184" ref="index"/>
-    <file name="u24963.png" crc="315637641" ref="index"/>
-    <file name="u2496-a3.png" crc="315637641" ref="index"/>
+    <file name="u24963.png" crc="177116709" ref="index"/>
+    <file name="u2496-a3.png" crc="177116709" ref="index"/>
     <file name="u24903.png" crc="4094031721" ref="index"/>
     <file name="u2490-a3.png" crc="4094031721" ref="index"/>
     <file name="u24783.png" crc="3968095104" ref="index"/>
@@ -160,10 +162,10 @@
     <file name="u2469-a3.png" crc="3999716099" ref="index"/>
     <file name="u25023.png" crc="3829791876" ref="index"/>
     <file name="u2502-a3.png" crc="3829791876" ref="index"/>
-    <file name="u31023.png" crc="73693816" ref="index"/>
-    <file name="u3102-r3.png" crc="73693816" ref="index"/>
-    <file name="u3008-43.png" crc="2521181" ref="index"/>
-    <file name="u3014-43.png" crc="275481129" ref="index"/>
+    <file name="u31023.png" crc="3870359657" ref="index"/>
+    <file name="u3102-r3.png" crc="3870359657" ref="index"/>
+    <file name="u3008-43.png" crc="80858178" ref="index"/>
+    <file name="u3014-43.png" crc="243070168" ref="index"/>
     <file name="logo69x69.png" crc="4244910977" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -173,36 +175,36 @@
     <file name="imagem_quem_somos489x415.png" crc="123296349" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u3114-93.png" crc="215776780" ref="index"/>
-    <file name="u3159-83.png" crc="513182844" ref="index"/>
-    <file name="u10573.png" crc="81575743" ref="index"/>
-    <file name="u1057-r3.png" crc="81575743" ref="index"/>
+    <file name="u3114-93.png" crc="479989095" ref="index"/>
+    <file name="u3159-83.png" crc="384740184" ref="index"/>
+    <file name="u10573.png" crc="157884216" ref="index"/>
+    <file name="u1057-r3.png" crc="157884216" ref="index"/>
     <file name="vetor_distribuidores398x283.png" crc="3980248125" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u1317-53.png" crc="4154762626" ref="index"/>
-    <file name="u3627-43.png" crc="3824416166" ref="index"/>
-    <file name="u3403-53.png" crc="115223747" ref="index"/>
+    <file name="u1317-53.png" crc="4160386416" ref="index"/>
+    <file name="u3627-43.png" crc="301358923" ref="index"/>
+    <file name="u3403-53.png" crc="377066685" ref="index"/>
     <file name="imagem_calcule_seu_chopp300x373.png" crc="237319077" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u3404-43.png" crc="4261407307" ref="index"/>
-    <file name="u34163.png" crc="106424021" ref="index"/>
-    <file name="u3416-ferr3.png" crc="4185113506" ref="index"/>
-    <file name="u34093.png" crc="3817513657" ref="index"/>
-    <file name="u3409-ferr3.png" crc="7547793" ref="index"/>
-    <file name="u34123.png" crc="4238068564" ref="index"/>
-    <file name="u3412-r3.png" crc="533849734" ref="index"/>
-    <file name="u3418-73.png" crc="4022736982" ref="index"/>
-    <file name="u2927-43.png" crc="3840355972" ref="index"/>
-    <file name="u3069-43.png" crc="4016731921" ref="index"/>
-    <file name="u3075-43.png" crc="3899118014" ref="index"/>
-    <file name="u3701-43.png" crc="364059301" ref="index"/>
-    <file name="u3785-43.png" crc="3774340105" ref="index"/>
-    <file name="u3683-143.png" crc="4077803954" ref="index"/>
-    <file name="u3870-43.png" crc="2521181" ref="index"/>
-    <file name="u3871-43.png" crc="275481129" ref="index"/>
-    <file name="u3848-63.png" crc="4082666152" ref="index"/>
+    <file name="u3404-43.png" crc="281037525" ref="index"/>
+    <file name="u34163.png" crc="259391759" ref="index"/>
+    <file name="u3416-ferr3.png" crc="4227867620" ref="index"/>
+    <file name="u34093.png" crc="339270325" ref="index"/>
+    <file name="u3409-ferr3.png" crc="503554809" ref="index"/>
+    <file name="u34123.png" crc="4110217488" ref="index"/>
+    <file name="u3412-r3.png" crc="8738610" ref="index"/>
+    <file name="u3418-73.png" crc="366441844" ref="index"/>
+    <file name="u2927-43.png" crc="95322083" ref="index"/>
+    <file name="u3069-43.png" crc="4153764551" ref="index"/>
+    <file name="u3075-43.png" crc="3894420024" ref="index"/>
+    <file name="u3701-43.png" crc="4103735964" ref="index"/>
+    <file name="u3785-43.png" crc="11769747" ref="index"/>
+    <file name="u3683-143.png" crc="132245206" ref="index"/>
+    <file name="u3870-43.png" crc="80858178" ref="index"/>
+    <file name="u3871-43.png" crc="243070168" ref="index"/>
+    <file name="u3848-63.png" crc="356855563" ref="index"/>
     <file name="u24964.png" crc="315637641" ref="index"/>
     <file name="u2496-a4.png" crc="315637641" ref="index"/>
     <file name="u24904.png" crc="4094031721" ref="index"/>
@@ -215,55 +217,113 @@
     <file name="u2469-a4.png" crc="3999716099" ref="index"/>
     <file name="u25024.png" crc="3829791876" ref="index"/>
     <file name="u2502-a4.png" crc="3829791876" ref="index"/>
-    <file name="u3069-44.png" crc="4103581357" ref="index"/>
-    <file name="u3075-44.png" crc="373330850" ref="index"/>
+    <file name="u3069-44.png" crc="4016731921" ref="index"/>
+    <file name="u3075-44.png" crc="3899118014" ref="index"/>
     <file name="u3870-44.png" crc="2521181" ref="index"/>
-    <file name="u3871-44.png" crc="243070168" ref="index"/>
-    <file name="banner-topo-distribuidor-crop-u316.jpg" crc="4287757309" seo="true" ref="index">
+    <file name="u3871-44.png" crc="275481129" ref="index"/>
+    <file name="banner-topo-distribuidor-crop-u316.jpg" crc="396210379" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u3008-44.png" crc="2521181" ref="index"/>
-    <file name="u3014-44.png" crc="243070168" ref="index"/>
+    <file name="u3014-44.png" crc="275481129" ref="index"/>
     <file name="logo41x41.png" crc="3783776150" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u31024.png" crc="422889641" ref="index"/>
-    <file name="u3102-r4.png" crc="422889641" ref="index"/>
+    <file name="u31024.png" crc="73693816" ref="index"/>
+    <file name="u3102-r4.png" crc="73693816" ref="index"/>
     <file name="imagem_quem_somos288x245.png" crc="4267633586" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u3114-94.png" crc="3790770387" ref="index"/>
-    <file name="u3159-84.png" crc="43035025" ref="index"/>
-    <file name="u10574.png" crc="3910450333" ref="index"/>
-    <file name="u1057-r4.png" crc="3910450333" ref="index"/>
+    <file name="u3114-94.png" crc="215776780" ref="index"/>
+    <file name="u3159-84.png" crc="513182844" ref="index"/>
+    <file name="u10574.png" crc="81575743" ref="index"/>
+    <file name="u1057-r4.png" crc="81575743" ref="index"/>
     <file name="vetor_distribuidores234x167.png" crc="257567883" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u1317-54.png" crc="4195587412" ref="index"/>
+    <file name="u1317-54.png" crc="4154762626" ref="index"/>
     <file name="imagem_peça_seu_chopp204x253.png" crc="3800828470" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u3627-44.png" crc="3806445615" ref="index"/>
+    <file name="u3627-44.png" crc="3824416166" ref="index"/>
     <file name="imagem_calcule_seu_chopp177x220.png" crc="3850699009" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u3403-54.png" crc="3896648200" ref="index"/>
-    <file name="u3404-44.png" crc="33339883" ref="index"/>
-    <file name="u34164.png" crc="3946229364" ref="index"/>
-    <file name="u3416-ferr4.png" crc="4107996575" ref="index"/>
-    <file name="u34094.png" crc="4117401335" ref="index"/>
-    <file name="u3409-ferr4.png" crc="444788967" ref="index"/>
-    <file name="u34124.png" crc="224598532" ref="index"/>
-    <file name="u3412-r4.png" crc="4101012317" ref="index"/>
-    <file name="u3418-74.png" crc="41455485" ref="index"/>
+    <file name="u3403-54.png" crc="115223747" ref="index"/>
+    <file name="u3404-44.png" crc="4261407307" ref="index"/>
+    <file name="u34164.png" crc="150000494" ref="index"/>
+    <file name="u3416-ferr4.png" crc="3920968648" ref="index"/>
+    <file name="u34094.png" crc="3786868455" ref="index"/>
+    <file name="u3409-ferr4.png" crc="440111652" ref="index"/>
+    <file name="u34124.png" crc="4238068564" ref="index"/>
+    <file name="u3412-r4.png" crc="533849734" ref="index"/>
+    <file name="u3418-74.png" crc="4022736982" ref="index"/>
     <file name="logo125x125.png" crc="308027191" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u2927-44.png" crc="3830667876" ref="index"/>
-    <file name="u3683-144.png" crc="4286956217" ref="index"/>
-    <file name="u3701-44.png" crc="319364226" ref="index"/>
-    <file name="u3785-44.png" crc="3932847309" ref="index"/>
-    <file name="u3848-64.png" crc="4034760972" ref="index"/>
+    <file name="u2927-44.png" crc="3840355972" ref="index"/>
+    <file name="u3683-144.png" crc="4077803954" ref="index"/>
+    <file name="u3701-44.png" crc="364059301" ref="index"/>
+    <file name="u3785-44.png" crc="3774340105" ref="index"/>
+    <file name="u3848-64.png" crc="4082666152" ref="index"/>
+    <file name="logo88x88.png" crc="412224461" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="banner-topo-distribuidor1350x513.jpg" crc="3987007115" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="imagem_quem_somos533x452.png" crc="4290926033" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="imagem_calcule_seu_chopp352x437.png" crc="4021831792" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="imagem_peça_seu_chopp334x414.png" crc="4287418221" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo183x183.png" crc="4208795050" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u24965.png" crc="315637641" ref="index"/>
+    <file name="u2496-a5.png" crc="315637641" ref="index"/>
+    <file name="u24905.png" crc="4094031721" ref="index"/>
+    <file name="u2490-a5.png" crc="4094031721" ref="index"/>
+    <file name="u24785.png" crc="3968095104" ref="index"/>
+    <file name="u2478-a5.png" crc="3968095104" ref="index"/>
+    <file name="u24825.png" crc="4124067621" ref="index"/>
+    <file name="u2482-a5.png" crc="4124067621" ref="index"/>
+    <file name="u24695.png" crc="3999716099" ref="index"/>
+    <file name="u2469-a5.png" crc="3999716099" ref="index"/>
+    <file name="u25025.png" crc="3829791876" ref="index"/>
+    <file name="u2502-a5.png" crc="3829791876" ref="index"/>
+    <file name="u3069-45.png" crc="4103581357" ref="index"/>
+    <file name="u3075-45.png" crc="373330850" ref="index"/>
+    <file name="u3870-45.png" crc="2521181" ref="index"/>
+    <file name="u3871-45.png" crc="243070168" ref="index"/>
+    <file name="u3008-45.png" crc="2521181" ref="index"/>
+    <file name="u3014-45.png" crc="243070168" ref="index"/>
+    <file name="u31025.png" crc="422889641" ref="index"/>
+    <file name="u3102-r5.png" crc="422889641" ref="index"/>
+    <file name="u3114-95.png" crc="3790770387" ref="index"/>
+    <file name="u3159-85.png" crc="43035025" ref="index"/>
+    <file name="u10575.png" crc="3910450333" ref="index"/>
+    <file name="u1057-r5.png" crc="3910450333" ref="index"/>
+    <file name="u1317-55.png" crc="4195587412" ref="index"/>
+    <file name="u3627-45.png" crc="3806445615" ref="index"/>
+    <file name="u3403-55.png" crc="3896648200" ref="index"/>
+    <file name="u3404-45.png" crc="33339883" ref="index"/>
+    <file name="u34165.png" crc="3946229364" ref="index"/>
+    <file name="u3416-ferr5.png" crc="4107996575" ref="index"/>
+    <file name="u34095.png" crc="4117401335" ref="index"/>
+    <file name="u3409-ferr5.png" crc="444788967" ref="index"/>
+    <file name="u34125.png" crc="224598532" ref="index"/>
+    <file name="u3412-r5.png" crc="4101012317" ref="index"/>
+    <file name="u3418-75.png" crc="41455485" ref="index"/>
+    <file name="u2927-45.png" crc="3830667876" ref="index"/>
+    <file name="u3683-145.png" crc="4286956217" ref="index"/>
+    <file name="u3701-45.png" crc="319364226" ref="index"/>
+    <file name="u3785-45.png" crc="3932847309" ref="index"/>
+    <file name="u3848-65.png" crc="3877080200" ref="index"/>
   </folder>
-  <file name="index.html" crc="480729969" seo="true" mt="1558119791776" redirect="true"/>
+  <file name="index.html" crc="449785" seo="true" mt="1558122157113" redirect="true"/>
 </manifest>

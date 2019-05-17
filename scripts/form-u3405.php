@@ -33,22 +33,15 @@ $form = array(
 	'fields' => array(
 		'custom_U3414' => array(
 			'order' => 1,
-			'type' => 'string',
+			'type' => 'number',
 			'label' => 'HOMENS',
 			'required' => true,
-			'errors' => array(
-				'required' => 'Field \'HOMENS\' is required.'
-			)
 		),
 		'Email' => array(
 			'order' => 2,
-			'type' => 'email',
+			'type' => 'number',
 			'label' => 'MULHERES',
 			'required' => true,
-			'errors' => array(
-				'required' => 'Field \'MULHERES\' is required.',
-				'format' => 'Field \'MULHERES\' has an invalid email address.'
-			)
 		)
 	)
 );

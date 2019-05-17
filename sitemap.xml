@@ -77,5 +77,23 @@
     <image:image>
       <image:loc>http://brasiliabier.com/images/logo125x125.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://brasiliabier.com/images/logo88x88.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://brasiliabier.com/images/banner-topo-distribuidor1350x513.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://brasiliabier.com/images/imagem_quem_somos533x452.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://brasiliabier.com/images/imagem_calcule_seu_chopp352x437.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://brasiliabier.com/images/imagem_pe%C3%A7a_seu_chopp334x414.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://brasiliabier.com/images/logo183x183.png</image:loc>
+    </image:image>
   </url>
 </urlset>
